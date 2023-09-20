@@ -55,7 +55,7 @@ If you'd like to contribute to this project, you can submit issues or pull reque
 
 This custom script is an effective solution for efficiently importing .sql databases in MySQL. It saves time and prevents frustrations when dealing with performance issues during imports. Use it in your projects and keep your database in top shape.
 
-If you have any questions or would like to see the script in action, we've prepared a video demonstration for your convenience. You can watch the video tutorial by clicking [here](link-to-video).
+If you have any questions or would like to see the script in action, we've prepared a video demonstration for your convenience. You can watch the video tutorial by clicking [here](https://th3khan.com/como-crea-script-php-para-importar-archivos-sql-mysql-phpmyadmin-mariadb/).
 
 We hope this documentation proves useful. Thank you!
 

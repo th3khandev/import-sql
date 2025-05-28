@@ -70,7 +70,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/th3khandev/import-sql
-   cd sql-database-importer
+   cd import-sql
    ```
 
 2. **Start the development server**

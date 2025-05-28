@@ -15,11 +15,13 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 // set max memory size
-ini_set('memory_limit', '1024M');
+ini_set('memory_limit', '2048M');
+// set max post size
+ini_set('post_max_size', '1024M');
 // set max execution time
-ini_set('max_execution_time', 600);
+ini_set('max_execution_time', 0);
 // set max input time
-ini_set('max_input_time', 600);
+ini_set('max_input_time', 0);
 // set max allowed file size
 ini_set('upload_max_filesize', '1024M');
 

@@ -69,7 +69,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sql-database-importer.git
+   git clone https://github.com/th3khandev/import-sql
    cd sql-database-importer
    ```
 
@@ -177,10 +177,10 @@ ini_set('post_max_size', '1024M');       // 1GB POST limit
 ## 🎨 Screenshots
 
 ### Main Interface
-![Main Interface](https://via.placeholder.com/800x600/3B82F6/FFFFFF?text=Modern+SQL+Importer+Interface)
+![Main Interface](https://th3khan.com/wp-content/uploads/2025/05/sql-import.png)
 
 ### Processing View
-![Processing View](https://via.placeholder.com/800x600/10B981/FFFFFF?text=Real-time+Progress+Tracking)
+![Processing View](https://th3khan.com/wp-content/uploads/2025/05/sql-import-processing-view.png)
 
 ---
 
@@ -222,12 +222,12 @@ Solution: Increase max_execution_time or use command line import
 We welcome contributions! Here's how you can help:
 
 ### 🐛 **Bug Reports**
-- Use the [issue tracker](https://github.com/yourusername/sql-database-importer/issues)
+- Use the [issue tracker](https://github.com/th3khandev/import-sql/issues)
 - Include PHP version, file size, and error messages
 - Provide steps to reproduce the issue
 
 ### 💡 **Feature Requests**
-- Suggest new features via [GitHub issues](https://github.com/yourusername/sql-database-importer/issues)
+- Suggest new features via [GitHub issues](https://github.com/th3khandev/import-sql/issues)
 - Explain the use case and expected behavior
 
 ### 🔧 **Pull Requests**
@@ -256,10 +256,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: support@yourdomain.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/sql-database-importer/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/sql-database-importer/wiki)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/sql-database-importer/discussions)
+- 📧 **Email**: contact@th3khan.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/th3khandev/import-sql/issues)
+- 📖 **Documentation**: [Wiki](https://github.com/th3khandev/import-sql/wiki)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/th3khandev/import-sql/discussions)
 
 ---
 
